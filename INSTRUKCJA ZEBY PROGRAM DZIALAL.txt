@@ -1,0 +1,2 @@
+plik "db" skopiowaæ do D:/baza/
+inaczej program siê nie uruchomi, system bazy danych przechowuje dane w tym pliku

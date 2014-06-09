@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTree.Logic", "GeoTree.Logic\GeoTree.Logic.csproj", "{471E39A1-8DB6-4D16-9C70-D5721085EE8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTree", "GeoTree\GeoTree.csproj", "{8B047817-70D8-455C-863E-F71A88C89F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoTreeUI", "DrzewoGenealogiczne\GeoTreeUI.csproj", "{D07BB320-E975-43B4-BCDC-6D297ACBBD65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471E39A1-8DB6-4D16-9C70-D5721085EE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{471E39A1-8DB6-4D16-9C70-D5721085EE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{471E39A1-8DB6-4D16-9C70-D5721085EE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{471E39A1-8DB6-4D16-9C70-D5721085EE8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B047817-70D8-455C-863E-F71A88C89F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B047817-70D8-455C-863E-F71A88C89F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B047817-70D8-455C-863E-F71A88C89F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B047817-70D8-455C-863E-F71A88C89F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07BB320-E975-43B4-BCDC-6D297ACBBD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07BB320-E975-43B4-BCDC-6D297ACBBD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07BB320-E975-43B4-BCDC-6D297ACBBD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07BB320-E975-43B4-BCDC-6D297ACBBD65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,102 @@
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\MisiekPodejscieNrJeden.exe.config
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\MisiekPodejscieNrJeden.exe
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\MisiekPodejscieNrJeden.pdb
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\Db4objects.Db4o.dll
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\GeoTree.exe
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\GeoTree.Logic.dll
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\Mono.Reflection.dll
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\GeoTree.Logic.pdb
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\GeoTree.pdb
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\bin\Debug\Db4objects.Db4o.xml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\GeoTreeUI.csprojResolveAssemblyReference.cache
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\AddPersonForm.baml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\Main.baml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\ShowInheritorsForm.baml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\AddPersonForm.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\AddRelationForm.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\Main.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\ShowInheritorsForm.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\ShowTree.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\App.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\MisiekPodejscieNrJeden_MarkupCompile.cache
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\MisiekPodejscieNrJeden_MarkupCompile.lref
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\AddRelationForm.baml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\ShowTree.baml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\Themes\Generic.baml
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\MisiekPodejscieNrJeden.g.resources
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\MisiekPodejscieNrJeden.Properties.Resources.resources
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\GeoTreeUI.csproj.GenerateResource.Cache
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\MisiekPodejscieNrJeden.exe
+C:\Users\gumao_000\documents\visual studio 2013\Projects\MisiekPodejscieNrJeden\MisiekPodejscieNrJeden\obj\Debug\MisiekPodejscieNrJeden.pdb
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.exe
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.Logic.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Mono.Reflection.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.Logic.pdb
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.pdb
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.xml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeUI.csprojResolveAssemblyReference.cache
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddPersonForm.baml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\Main.baml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowInheritorsForm.baml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddPersonForm.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddRelationForm.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\Main.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowInheritorsForm.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowTree.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\App.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddRelationForm.baml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowTree.baml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\Themes\Generic.baml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeUI.csproj.GenerateResource.Cache
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTree.UI.Properties.Resources.resources
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.exe.config
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.exe
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.pdb
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication_MarkupCompile.cache
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication_MarkupCompile.lref
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.g.resources
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.exe
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.pdb
+G:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.exe.config
+G:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.exe
+G:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.pdb
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.exe.config
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.exe
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.pdb
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.exe
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTreeApplication.pdb
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.Data.Services.dll
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.dll
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.Linq.dll
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.exe
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.Logic.dll
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Mono.Reflection.dll
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.Logic.pdb
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\GeoTree.pdb
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\bin\Debug\Db4objects.Db4o.xml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeUI.csprojResolveAssemblyReference.cache
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddPersonForm.baml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\Main.baml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowInheritorsForm.baml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddPersonForm.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddRelationForm.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\Main.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowInheritorsForm.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowTree.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\App.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication_MarkupCompile.cache
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication_MarkupCompile.lref
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\AddRelationForm.baml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\ShowTree.baml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\Themes\Generic.baml
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeApplication.g.resources
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTree.UI.Properties.Resources.resources
+F:\DrzewoGenealogiczne\DrzewoGenealogiczne\obj\Debug\GeoTreeUI.csproj.GenerateResource.Cache

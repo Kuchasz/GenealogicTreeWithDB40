@@ -1,0 +1,13 @@
+﻿<Window x:Class="GeoTree.UI.ShowTree"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:my="clr-namespace:GeoTree.UI"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Name="grid" Background="#ECEAE0">
+        <ScrollViewer Name="scv" VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+            <Viewbox Stretch="Uniform">
+                <my:GeneticTree x:Name="gt" Nodes="{Binding}" Background="LightBlue" VerticalNodeSpace="100" HorizontalNodeSpace="120" NodeThickness="25"></my:GeneticTree>
+            </Viewbox>
+        </ScrollViewer>
+    </Grid>
+</Window>

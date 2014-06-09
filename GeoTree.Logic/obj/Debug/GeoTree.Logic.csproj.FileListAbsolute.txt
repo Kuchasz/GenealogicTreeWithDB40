@@ -1,0 +1,22 @@
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\GeoTree.Logic.dll
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\GeoTree.Logic.pdb
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\Db4objects.Db4o.Data.Services.dll
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\Db4objects.Db4o.dll
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\Db4objects.Db4o.Linq.dll
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\Mono.Reflection.dll
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\bin\Debug\Db4objects.Db4o.xml
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\obj\Debug\GeoTree.Logic.csprojResolveAssemblyReference.cache
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\obj\Debug\GeoTree.Logic.dll
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree.Logic\obj\Debug\GeoTree.Logic.pdb
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\GeoTree.Logic\bin\Debug\GeoTree.Logic.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\GeoTree.Logic\bin\Debug\GeoTree.Logic.pdb
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\GeoTree.Logic\bin\Debug\Db4objects.Db4o.xml
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\GeoTree.Logic\obj\Debug\GeoTree.Logic.csprojResolveAssemblyReference.cache
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\GeoTree.Logic\obj\Debug\GeoTree.Logic.dll
+C:\Users\gumao_000\Documents\Visual Studio 2013\Projects\DrzewoGenealogiczne\GeoTree.Logic\obj\Debug\GeoTree.Logic.pdb
+F:\DrzewoGenealogiczne\GeoTree.Logic\bin\Debug\GeoTree.Logic.dll
+F:\DrzewoGenealogiczne\GeoTree.Logic\bin\Debug\GeoTree.Logic.pdb
+F:\DrzewoGenealogiczne\GeoTree.Logic\bin\Debug\Db4objects.Db4o.xml
+F:\DrzewoGenealogiczne\GeoTree.Logic\obj\Debug\GeoTree.Logic.csprojResolveAssemblyReference.cache
+F:\DrzewoGenealogiczne\GeoTree.Logic\obj\Debug\GeoTree.Logic.dll
+F:\DrzewoGenealogiczne\GeoTree.Logic\obj\Debug\GeoTree.Logic.pdb

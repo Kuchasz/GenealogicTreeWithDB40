@@ -1,0 +1,13 @@
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\bin\Debug\GeoTree.exe.config
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\bin\Debug\GeoTree.exe
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\bin\Debug\GeoTree.pdb
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree.csprojResolveAssemblyReference.cache
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\MainWindow.baml
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\MainWindow.g.cs
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\App.g.cs
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree_MarkupCompile.cache
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree.g.resources
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree.Properties.Resources.resources
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree.csproj.GenerateResource.Cache
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree.exe
+C:\Users\gumao_000\Desktop\GeoTree-master\GeoTree-master\GeoTree\obj\Debug\GeoTree.pdb
